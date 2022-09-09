@@ -1,14 +1,26 @@
 body {
+  background: url(background.jpg);
+  font-family: 'Poppins';
 }
 
 main#container {
+  background-color: #d4c2e3;
+  border: 5px solid #bfcae8;
+  border-radius: 5px;
+  padding: 10px;
+  box-shadow: 10px 10px #bfcae8;
 }
 
 h1.titulo {
+  font-weight: 700;
 }
 
 p.frase {
+  font-style: italic;
+
 }
 
 p.autor {
+  font-weight: bold;
+
 }
